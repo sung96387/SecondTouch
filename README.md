@@ -5,12 +5,12 @@
 
 ---
 
-### 1주차[]:(https://github.com/sung96387/SecondTouch/tree/master/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%201%EC%A3%BC%EC%B0%A8/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%201%EC%A3%BC%EC%B0%A8)
-+ 알파벳 개수[]:(https://www.acmicpc.net/problem/10808)
-+ 최소공배수[]:(https://www.acmicpc.net/problem/1934)
-+ 카이사르 암호[]:(https://www.acmicpc.net/problem/5598)
-+ 평균점수[]:(https://www.acmicpc.net/problem/10039)
-+ 하얀칸[]:(https://www.acmicpc.net/problem/1100)
+### 1주차[go]:(https://github.com/sung96387/SecondTouch/tree/master/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%201%EC%A3%BC%EC%B0%A8/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%201%EC%A3%BC%EC%B0%A8)
++ 알파벳 개수[10808]:(https://www.acmicpc.net/problem/10808)
++ 최소공배수[1934]:(https://www.acmicpc.net/problem/1934)
++ 카이사르 암호[5598]:(https://www.acmicpc.net/problem/5598)
++ 평균점수[10039]:(https://www.acmicpc.net/problem/10039)
++ 하얀칸[1100]:(https://www.acmicpc.net/problem/1100)
 ### 2주차
 + 단어길이재기
 + 더하기
