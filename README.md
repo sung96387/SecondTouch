@@ -56,3 +56,6 @@
 ### 1주차 [go](https://github.com/sung96387/SecondTouch/tree/master/2%ED%95%99%EA%B8%B0%201%EC%A3%BC%EC%B0%A8/2%ED%95%99%EA%B8%B0%201%EC%A3%BC%EC%B0%A8)
 + 방학숙제 [5532](https://www.acmicpc.net/problem/5532)
 + 분수찾기 [1193](https://www.acmicpc.net/problem/1193)
+### 2주차 [go](https://github.com/sung96387/SecondTouch/tree/master/2%ED%95%99%EA%B8%B0%202%EC%A3%BC%EC%B0%A8/2%ED%95%99%EA%B8%B0%202%EC%A3%BC%EC%B0%A8)
++ 더하기 사이클 [1110](https://www.acmicpc.net/problem/1110)
++ 수 이어 쓰기1 [1758](https://www.acmicpc.net/problem/1748) 
