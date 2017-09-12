@@ -1,9 +1,8 @@
 # SecondTouch
----
+
 
 ## 여름방학
 
----
 
 ### 1주차 [go](https://github.com/sung96387/SecondTouch/tree/master/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%201%EC%A3%BC%EC%B0%A8/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%201%EC%A3%BC%EC%B0%A8)
 + 알파벳 개수 [10808](https://www.acmicpc.net/problem/10808)
