@@ -1,8 +1,9 @@
 # SecondTouch
-
+---
 
 ## 여름방학
 
+---
 
 ### 1주차 [go](https://github.com/sung96387/SecondTouch/tree/master/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%201%EC%A3%BC%EC%B0%A8/%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%201%EC%A3%BC%EC%B0%A8)
 + 알파벳 개수 [10808](https://www.acmicpc.net/problem/10808)
@@ -50,9 +51,14 @@
 + 좋은수 [5624](https://www.acmicpc.net/problem/5624)
 ## 2학기
 
+---
+
 ### 1주차 [go](https://github.com/sung96387/SecondTouch/tree/master/2%ED%95%99%EA%B8%B0%201%EC%A3%BC%EC%B0%A8/2%ED%95%99%EA%B8%B0%201%EC%A3%BC%EC%B0%A8)
 + 방학숙제 [5532](https://www.acmicpc.net/problem/5532)
 + 분수찾기 [1193](https://www.acmicpc.net/problem/1193)
 ### 2주차 [go](https://github.com/sung96387/SecondTouch/tree/master/2%ED%95%99%EA%B8%B0%202%EC%A3%BC%EC%B0%A8/2%ED%95%99%EA%B8%B0%202%EC%A3%BC%EC%B0%A8)
 + 더하기 사이클 [1110](https://www.acmicpc.net/problem/1110)
 + 수 이어 쓰기1 [1758](https://www.acmicpc.net/problem/1748) 
+### 3주차 [go](https://github.com/sung96387/SecondTouch/tree/master/2%ED%95%99%EA%B8%B0%203%EC%A3%BC%EC%B0%A8/2%ED%95%99%EA%B8%B0%203%EC%A3%BC%EC%B0%A8)
++ 세로 읽기 [10798](https://www.acmicpc.net/problem/10798)
++ 설탕 배달 [2839](https://www.acmicpc.net/problem/2839)
