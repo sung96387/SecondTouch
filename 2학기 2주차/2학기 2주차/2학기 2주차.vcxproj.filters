@@ -18,5 +18,8 @@
     <ClCompile Include="더하기 사이클.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="수 이어 쓰기1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
