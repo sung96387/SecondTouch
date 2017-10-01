@@ -57,7 +57,6 @@
 ### 3주차 [go](https://github.com/sung96387/SecondTouch/tree/master/2%ED%95%99%EA%B8%B0%203%EC%A3%BC%EC%B0%A8/2%ED%95%99%EA%B8%B0%203%EC%A3%BC%EC%B0%A8)
 + 세로 읽기 [10798](https://www.acmicpc.net/problem/10798)
 + 설탕 배달 [2839](https://www.acmicpc.net/problem/2839)
-### 4주차
-[go](https://github.com/sung96387/SecondTouch/tree/master/2%ED%95%99%EA%B8%B0%204%EC%A3%BC%EC%B0%A8/2%ED%95%99%EA%B8%B0%204%EC%A3%BC%EC%B0%A8)
+### 4주차 [go](https://github.com/sung96387/SecondTouch/tree/master/2%ED%95%99%EA%B8%B0%204%EC%A3%BC%EC%B0%A8/2%ED%95%99%EA%B8%B0%204%EC%A3%BC%EC%B0%A8)
 + 쉽게 푸는 문제 [1292](https://www.acmicpc.net/problem/1292)
 + 심부름 가는 길 [5554](https://www.acmicpc.net/problem/5554)
